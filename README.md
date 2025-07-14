@@ -141,6 +141,12 @@ go build -o cry2gather main.go
 
 ---
 
+## 🎥 Usage Video
+
+[▶️ Click to watch](video.mp4)
+
+---
+
 ## Files Created
 - `resolver_<row>.txt` — line-delimited CIDs with byte ranges
 - Console output — sharedSecret (never stored), helpful status messages
