@@ -143,7 +143,7 @@ go build -o cry2gather main.go
 
 ## 🎥 Usage Video
 
-[▶️ Click to watch](video.mp4)
+[![Watch the demo on YouTube](https://youtu.be/K_fvrqDcRcU)](https://youtu.be/K_fvrqDcRcU)
 
 ---
 
