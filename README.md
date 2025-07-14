@@ -75,7 +75,7 @@ I didn't just build a CLI tool. I implemented a **multi-layered, post-quantum se
 - Pinata API key & secret (or another IPFS pinning service)
 
 ### 🧱 Architecture Overview
-![cry2gather2](https://i.ibb.co/Gvc1Kq0F/Ads-z-2023-11-28-1338.png "cry2gather2")
+![cry2gather2](https://i.hizliresim.com/ddz0olw.png "cry2gather2")
 
        [CLI] cry2gather
              │
